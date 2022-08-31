@@ -1,0 +1,1 @@
+# genaral_physics_mechanics
