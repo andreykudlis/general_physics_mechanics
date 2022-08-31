@@ -1,4 +1,4 @@
-# genaral_physics_mechanics
+# general_physics_mechanics
 
 Lecture notes of a course on mechanics given as part of General Physics at ITMO University in 2022.
 
